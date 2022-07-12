@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvID" type="id" />
+    <item name="tvEditContent" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="btnDelete" type="id" />
+</resources>
